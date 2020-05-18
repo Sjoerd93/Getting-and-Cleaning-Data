@@ -6,6 +6,6 @@ The purpose of this project is to demonstrate my ability to collect, work with, 
 The files in this folder are: 
 1) run_analysis.R - R script which shows how the final dataset has been computed
 2) tidydata.csv - the required tidy data set 
-3) CodeBook.md - code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. 
+3) CodeBook.pdf - code book that describes the variables, the data, and any transformations or work that I performed to clean up the data 
 4) README.md file
 
